@@ -74,15 +74,19 @@ In that sense, Durable Functions is an important evolution. It addresses many pr
 
 # References
 
-Hellerstein, J. M., et al. (2019). Serverless Computing: One Step Forward, Two Steps Back. CIDR.
+Hellerstein, J. M., et al. (2019). Serverless Computing: One Step Forward, Two Steps Back. CIDR. https://cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf
 
-Microsoft. (2023a). Durable Functions overview. Microsoft Learn.
+Microsoft. (2023a). Durable Functions overview.
+🔗 https://learn.microsoft.com/azure/azure-functions/durable/durable-functions-overview
 
-Microsoft. (2023b). Orchestrator function code constraints and replay behavior. Microsoft Learn.
+Microsoft. (2023b). Orchestrator function code constraints and replay behavior.
+🔗 https://learn.microsoft.com/azure/azure-functions/durable/durable-functions-code-constraints
 
-Microsoft. (2023c). Performance and scale in Durable Functions. Microsoft Learn.
+Microsoft. (2023c). Performance and scale in Durable Functions.
+🔗 https://learn.microsoft.com/azure/azure-functions/durable/durable-functions-perf-and-scale
 
-Microsoft. (2023d). Fan-out/fan-in pattern in Durable Functions. Microsoft Learn.
+Microsoft. (2023d). Fan-out/fan-in pattern in Durable Functions.
+🔗 https://learn.microsoft.com/azure/azure-functions/durable/durable-functions-cloud-backup
 
 ---
 
